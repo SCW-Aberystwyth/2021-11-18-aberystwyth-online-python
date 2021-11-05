@@ -246,11 +246,11 @@ Display the contact email address set in the configuration file.
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
+
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to all Aberystwyth University Research Staff and Students.
+    This workshop is open to all Aberystwyth University Research Staff and Students. Please [contact the workshop organisers](#contact) if you wish to attend and are not a member of Aberystwyth University.
 </p>
-
 
 <hr/>
 
